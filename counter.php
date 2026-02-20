@@ -9,7 +9,7 @@
         $pgcount = $dbarr["countnum"];
     }
     $pgcount = $pgcount + 1;
-    $pgcount = "0000000000000000000000000000" . $pgcount;
+    $pgcount = "00000000000000000000000000000000" . $pgcount;
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
 
