@@ -16,7 +16,7 @@
 				<li><a href="home.php">หน้าแรกกกกกกกกกกกกกก</li>
 				<li><a href="room.php">ห้องพัก&ราคาาาาาาาาาาาาาาาาาาาาาาาาาา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
+				<li><a href="contact.php">ติดต่อออออออออออออออออ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
